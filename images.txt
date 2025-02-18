@@ -5,3 +5,7 @@ xhofe/alist:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
 langchain/langchain:latest
+ollama/ollama:latest
+pytorch/pytorch:2.2.2-cuda12.1-cudnn8-devel
+pytorch/pytorch:2.6.0-cuda11.8-cudnn9-devel
+pytorch/pytorch:2.6.0-cuda12.6-cudnn9-devel
