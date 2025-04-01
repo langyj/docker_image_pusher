@@ -1,1 +1,1 @@
-sharelatex/sharelatex:latest
+sharelatex/sharelatex
