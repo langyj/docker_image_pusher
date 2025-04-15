@@ -1,1 +1,1 @@
-sharelatex/sharelatex:5.3.3
+sharelatex/sharelatex:5.4
