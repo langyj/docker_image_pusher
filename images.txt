@@ -1,2 +1,2 @@
-sharelatex/sharelatex:5.4.1
+pytorch/pytorch:2.8.0-cuda12.8-cudnn9-runtime
 
